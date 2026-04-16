@@ -111,7 +111,7 @@ Noel Chisholm
 
 Laberica dark roast sales went down from January to February of 2022.
 Robusta dark roast - from March to April of 2022.
-Excelsa dar roast - from February to march of 2022.
+Excelsa dark roast - from February to march of 2022.
 And there was no Arabica dark roast sales in 2022.
 
 -The combination of pivot tables and visualizations provides stakeholders with clear, actionable insights that can inform strategic decisions.
